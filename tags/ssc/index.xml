@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SSC on HomePage of Zhenyu Ma</title>
+    <link>https://mazy0403.github.io/tags/ssc/</link>
+    <description>Recent content in SSC on HomePage of Zhenyu Ma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mazy0403.github.io/tags/ssc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Siamese Similarity Control</title>
+      <link>https://mazy0403.github.io/docs/ssc/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://mazy0403.github.io/docs/ssc/</guid>
+      <description>title: A Lightweight Siamese Network-Driven Unsupervised Reinforcement Learning&#xA;abstract: Unsupervised reinforcement learning(URL) has been a promising paradigm in recent years to design reinforcement learning (RL) agents that can be generalized to new tasks. Competence-based URLs are currently the most popular ones. However, two problems remain: In this paper, we introduce a Siamese Similarity Control (SSC) approach that uses Siamese networks for similarity estimation between state transfer and potential skills to learn effective behaviors.</description>
+    </item>
+  </channel>
+</rss>

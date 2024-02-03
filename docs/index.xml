@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation on HomePage of Zhenyu Ma</title>
+    <link>https://mazy0403.github.io/docs/</link>
+    <description>Recent content in Documentation on HomePage of Zhenyu Ma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mazy0403.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://mazy0403.github.io/docs/hello/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mazy0403.github.io/docs/hello/</guid>
+      <description>Hello, everyone. My name is Zhenyu Ma . An artificial intelligence scholar and currently pursuing a master&amp;rsquo;s degree at Tongji University. This is my personal homepage. It consists of an introduction about my academic content, including my bio, and a CV. Also I want to show my life and hobbies.</description>
+    </item>
+    <item>
+      <title>biography</title>
+      <link>https://mazy0403.github.io/docs/biography/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://mazy0403.github.io/docs/biography/</guid>
+      <description>Zhenyu Ma received the B.S. degree in College of Automotive Engineering, Jilin University, Jilin, China, in 2022. He is currently working toward the M.S. degree with the School of Automotive Studies, Tongji University, Shanghai, China. His research interests include machine learning, reinforcement learning, decision control, curiosity mechanism, intelligent transportation systems, and autonomous vehicle.</description>
+    </item>
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://mazy0403.github.io/docs/practice/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://mazy0403.github.io/docs/practice/</guid>
+      <description>Zhenyu Ma 13331705980 | mazy0403@outlook.com&#xA;Under Postgraduate 丨Algorithm Research Intern&#xA;refer: Chinese; English&#xA;EDUCATION Tongji University Aug 2022 - Mar 2025&#xA;CDHK Vehicle Master&#xA;Jilin University Aug 2018 - Jul 2022&#xA;Vehicle Engineering Bachelor&#xA;PROFESSIONAL EXPERIENCE Supported by the National Key R&amp;amp;D Program of China under Grant (No2022YFB2502900). Sep 2022 - Present&#xA;Utilizing unsupervised reinforcement learning, developing an autonomous driving reinforcement learning multitasking decision-making paradigm that improves decision-making levels by 20%~40% and training speeds by 30%~50% compared to the DDPG baseline.</description>
+    </item>
+    <item>
+      <title>Unsupervised Reinforcement Learning to Continual Reinforcement Learning</title>
+      <link>https://mazy0403.github.io/docs/cul/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://mazy0403.github.io/docs/cul/</guid>
+      <description>title: Unsupervised Reinforcement Learning to Continual Reinforcement Learning: from Relevance to Whole&#xA;abstract: The lifelong learning process in human beings involves both the process of crossing between different domains and the process of changing environmental conditions. Among reinforcement learning(RL) methods, existing continuous learning approaches tend to be effective in dealing with learning across domains, while it is difficult to achieve results in the face of changing environments. This paper demonstrates and explains in detail a new idea to solve this kind of problem: using competence-based unsupervised reinforcement learning(URL) methods to learn invariant feature, relevance, of continuously changing environments.</description>
+    </item>
+    <item>
+      <title>Simplified Meta-Transfer</title>
+      <link>https://mazy0403.github.io/docs/sim/</link>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://mazy0403.github.io/docs/sim/</guid>
+      <description>title: Simplified Meta-Transfer to Improve Exploration of Reinforcement Learning&#xA;abstract: Reinforcement learning (RL) agents are suffering from the reward sparsity in complex environments, especially for autonomous driving caused by corner scenarios and uncertain conditions. The reason is that complex environments feature the presence of severe reward hackings and mixed sparse rewards. In this paper, we propose a Simplified Meta-Transfer (SimMT) method, which uses two floating-point numbers as conservative and aggressive exploration factors and constructs meta-transfer information, respectively.</description>
+    </item>
+    <item>
+      <title>Siamese Similarity Control</title>
+      <link>https://mazy0403.github.io/docs/ssc/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://mazy0403.github.io/docs/ssc/</guid>
+      <description>title: A Lightweight Siamese Network-Driven Unsupervised Reinforcement Learning&#xA;abstract: Unsupervised reinforcement learning(URL) has been a promising paradigm in recent years to design reinforcement learning (RL) agents that can be generalized to new tasks. Competence-based URLs are currently the most popular ones. However, two problems remain: In this paper, we introduce a Siamese Similarity Control (SSC) approach that uses Siamese networks for similarity estimation between state transfer and potential skills to learn effective behaviors.</description>
+    </item>
+    <item>
+      <title>Unsupervised Reinforcement Learning for Multi task Autonomous Driving</title>
+      <link>https://mazy0403.github.io/docs/cic/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://mazy0403.github.io/docs/cic/</guid>
+      <description>title: Unsupervised Reinforcement Learning for Multi-task Autonomous Driving: Expanding Skills and Cultivating Curiosity&#xA;abstract: In recent years, reinforcement learning (RL) has been widely used in decision-making. However, it still faces challenges when it is applied to autonomous driving, especially in complex multi-task scenarios. This paper introduces an unsupervised reinforcement learning(URL), called an improved Contrastive Intrinsic Control (CIC), to address this problem. CIC generates skills as transferable factors between different tasks to enable multi-task expansion.</description>
+    </item>
+    <item>
+      <title>My Life</title>
+      <link>https://mazy0403.github.io/docs/life/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://mazy0403.github.io/docs/life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My Photographs</title>
+      <link>https://mazy0403.github.io/docs/photo/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://mazy0403.github.io/docs/photo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My Poets</title>
+      <link>https://mazy0403.github.io/docs/poets/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://mazy0403.github.io/docs/poets/</guid>
+      <description>《雨霖铃，雪宿》&#xA;参霖小驻，暮淞雪宿，海芜萍处。&#xA;箫羽千里殊途，蓬飞处，寒江觅渡。&#xA;寒蛉粉崩瑟肃，北江寂濯冷。&#xA;难自悟，魏蝇楚祸，十哲不祀湘南渚。&#xA;碎落狄雷鸣帝喾，千里干云，摘星蒙天怒。&#xA;賶烛三千废土，与谁言，江百灯衎。&#xA;古塞天隅，英昭既道，南阳三顾。&#xA;今朝彭起云灵聚，海不断，天涯路。&#xA;《临徐望江》&#xA;腾日临徐百江帆，澳川风雨几波澜。&#xA;长右顒荧吟帝落，女姜灯错吴戈環。&#xA;枯海参烛刑汤祭，荻兰桂马闻声南。&#xA;不似故人邻江渚，落日长洲寂萧寒。&#xA;《雨的钟声》&#xA;静处的笛声悠扬着雨落的前夜，&#xA;微风窸窣落叶的呓语，&#xA;旅人驻足在昏暗一角，&#xA;暮色的穹落下远方的钟声，&#xA;回荡着一个人的寂寞，&#xA;不知哪里是归途。&#xA;《火与新生》&#xA;彩色的芜褪去颜色变成冬日的雪，&#xA;夕阳呓语等待下个清晨，&#xA;沉寂在黑夜的幽幽暗暗，&#xA;我在灰烬里寻找火与新生。</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SimMT on HomePage of Zhenyu Ma</title>
+    <link>https://mazy0403.github.io/tags/simmt/</link>
+    <description>Recent content in SimMT on HomePage of Zhenyu Ma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mazy0403.github.io/tags/simmt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simplified Meta-Transfer</title>
+      <link>https://mazy0403.github.io/docs/sim/</link>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://mazy0403.github.io/docs/sim/</guid>
+      <description>title: Simplified Meta-Transfer to Improve Exploration of Reinforcement Learning&#xA;abstract: Reinforcement learning (RL) agents are suffering from the reward sparsity in complex environments, especially for autonomous driving caused by corner scenarios and uncertain conditions. The reason is that complex environments feature the presence of severe reward hackings and mixed sparse rewards. In this paper, we propose a Simplified Meta-Transfer (SimMT) method, which uses two floating-point numbers as conservative and aggressive exploration factors and constructs meta-transfer information, respectively.</description>
+    </item>
+  </channel>
+</rss>

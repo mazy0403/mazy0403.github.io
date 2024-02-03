@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CIC on HomePage of Zhenyu Ma</title>
+    <link>https://mazy0403.github.io/tags/cic/</link>
+    <description>Recent content in CIC on HomePage of Zhenyu Ma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mazy0403.github.io/tags/cic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unsupervised Reinforcement Learning for Multi task Autonomous Driving</title>
+      <link>https://mazy0403.github.io/docs/cic/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://mazy0403.github.io/docs/cic/</guid>
+      <description>title: Unsupervised Reinforcement Learning for Multi-task Autonomous Driving: Expanding Skills and Cultivating Curiosity&#xA;abstract: In recent years, reinforcement learning (RL) has been widely used in decision-making. However, it still faces challenges when it is applied to autonomous driving, especially in complex multi-task scenarios. This paper introduces an unsupervised reinforcement learning(URL), called an improved Contrastive Intrinsic Control (CIC), to address this problem. CIC generates skills as transferable factors between different tasks to enable multi-task expansion.</description>
+    </item>
+  </channel>
+</rss>
